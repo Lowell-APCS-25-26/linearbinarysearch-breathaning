@@ -1,0 +1,9 @@
+-classpath '/workspaces/linearbinarysearch-breathaning/build/classes/java/main:/workspaces/linearbinarysearch-breathaning/build/resources/main'
+-quiet 
+-d '/workspaces/linearbinarysearch-breathaning/build/docs/javadoc'
+-windowtitle 'linearbinarysearch-breathaning API'
+-doctitle 'linearbinarysearch-breathaning API'
+-notimestamp 
+'/workspaces/linearbinarysearch-breathaning/src/main/java/Item.java'
+'/workspaces/linearbinarysearch-breathaning/src/main/java/Main.java'
+'/workspaces/linearbinarysearch-breathaning/src/main/java/Sketch.java'
